@@ -14,9 +14,8 @@ function App() {
         <h4 className="mb-6 text-white text-lg font-semibold text-center">Here is your new React Card</h4>
         
         {/* The Card component handles everything internally */}
-        <Card username="chaiaurcode" />
-        <Card />
-        
+        <Card username="chaiaurcode" btntxt = "click me"/>
+        <Card username="Adhiviraj" age = "32"/>
       </div>
       
     </div>
